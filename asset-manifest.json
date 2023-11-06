@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Seller_Admin/static/css/main.f4fa87f7.css",
+    "main.js": "/React_Seller_Admin/static/js/main.58ec8002.js",
+    "index.html": "/React_Seller_Admin/index.html",
+    "main.f4fa87f7.css.map": "/React_Seller_Admin/static/css/main.f4fa87f7.css.map",
+    "main.58ec8002.js.map": "/React_Seller_Admin/static/js/main.58ec8002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4fa87f7.css",
+    "static/js/main.58ec8002.js"
+  ]
+}
